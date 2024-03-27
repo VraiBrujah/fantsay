@@ -1,0 +1,8 @@
+{
+    "5e-spellblock-importer.importButton": "Importer",
+    "5e-spellblock-importer.importText": "Dossier de destination :",
+    "5e-spellblock-importer.importTextTab":"Importer Sort/Objet",
+    "5e-spellblock-importer.type.spell": "Sort",
+    "5e-spellblock-importer.type.item": "Objet",
+    "5e-spellblock-importer.placeholder": "Utilisation :\n    - Collez le texte complet du bloc d'objet dans cette zone. Il doit suivre le formatage de WotC pour être correctement importé.\n    - Si nécessaire, vous pouvez éditer le texte ici pour corriger des erreurs puis réimporter.\n\nSignalez tout bug en utilisant le lien du module, et ajoutez le bloc de sort que vous essayiez d'importer."
+}
